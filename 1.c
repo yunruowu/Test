@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <omp.h>
+ddasdassdasdas
+
 
 void Trap(double a, double b, int n, double* global_result_p);
 
